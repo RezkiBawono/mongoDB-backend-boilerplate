@@ -12,5 +12,5 @@ List of dependencies :
     mongoose
     mongoose-sequence
 
-Boilerplate to connect from server.js to mongo DB database
-Use npm install to install all dependencies
+Boilerplate to connect from server.js to mongo DB database.
+Use npm install to install all dependencies.
